@@ -3,5 +3,26 @@
     "inquirer": "^7.3.3",
     "jest": "^26.6.3",
     "path": "^0.12.7"
-  }
+  },
+  "name": "teamcreater",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+ "scripts": {
+  "test": "jest --verbose test/*"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaidalharahsheh/EmployeesNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaidalharahsheh/EmployeesNodeJs/issues"
+  },
+  "homepage": "https://github.com/Zaidalharahsheh/EmployeesNodeJs#readme"
 }
